@@ -1,0 +1,36 @@
+/* header.module.css */
+.navLink {
+  @apply px-4 py-2 rounded-md;
+}
+
+.navLink.active {
+  @apply text-teal-500 font-bold border-green-500;
+}
+
+.themeToggle {
+  @apply ml-auto;
+}
+
+/* Default (desktop) styles */
+.navLinks {
+  display: flex;
+}
+
+.dropdownMenu {
+  display: none;
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .navLinks {
+    display: none;
+  }
+  .dropdownMenu {
+    display: block;
+  }
+}
+
+/* Dark theme */
+.header {
+  background-color: var(--header-bg);
+}

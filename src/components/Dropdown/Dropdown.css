@@ -1,0 +1,75 @@
+/* Common dropdown styles */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-btn {
+  background-color: #0000;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: 2px solid #666; /* Added border width and style */
+  border-radius: 8px; /* Added rounded borders */
+  cursor: pointer;
+}
+
+/* Light theme styles */
+:root {
+  --dropdown-bg: #f9f9f9;
+  --dropdown-border: #ccc;
+}
+
+[data-theme="dark"] {
+  --dropdown-bg: #333;
+  --dropdown-border: #666;
+}
+
+/* Apply the theme variables */
+.dropdown-container {
+  position: absolute;
+  right: 0; /* Position dropdown to the right */
+  min-width: 160px;
+  z-index: 1;
+  overflow: hidden;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  background-color: var(--dropdown-bg);
+  border: 1px solid var(--dropdown-border);
+}
+
+.dropdown-item {
+  color: black;
+  padding: 12px 0px 12px 8px;
+  display: block;
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  background: none;
+  text-align: left;
+}
+
+.dropdown-item:hover {
+  background-color: #f1f1f1;
+}
+
+.dropdown-item.danger:hover {
+  background-color: #f1bcb9;
+}
+
+.dropdown-divider {
+  border-bottom: 1px solid #ddd;
+  margin: 8px 0;
+}
+
+/* Dark theme hover styles */
+[data-theme="dark"] .dropdown-item:hover {
+  background-color: #444;
+}
+
+[data-theme="dark"] .dropdown-item.danger:hover {
+  background-color: #cc6666;
+}
+
+[data-theme="dark"] .dropdown-btn {
+  background-color: #444;
+  color: white;
+}
