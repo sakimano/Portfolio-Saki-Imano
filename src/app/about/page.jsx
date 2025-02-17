@@ -13,54 +13,54 @@ export default function About() {
       <main className="container mx-auto p-12 pt-0">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
         <div className="col-span-2 md:col-span-1">
-            <h1 className="text-6xl font-bold mt-6">I am Jane I live in New York City, Where I develop the Future</h1>
+            <h1 className="text-6xl font-bold mt-6">I am Saki I live in Utah, Where I develop the Future</h1>
           <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-      My name is David Uche, I am a student at the University of Regina studying Computer Science.
-      I am a software engineer, father, and believer. I am passionate about software engineering and
-      I am always looking for ways to improve my skills. I am also a father to a beautiful daughter and
-      I am a believer in God. I am always looking for ways to improve my skills and I am always looking
-      for ways to improve my skills. I am always looking for ways to improve my skills and I am always
-      looking for ways to improve my skills. I am always looking for ways to improve my skills and
-      I am always looking for ways to improve my skills. I am always looking for ways to improve my
-      skills and I am always looking for ways to improve my skills. I am always looking for ways to
-      improve my skills and I am always looking for ways to improve my skills. I am always looking
-      for ways to improve my skills and I am always looking for ways to improve my skills.
+      My name is Saki Imano, I am a student at Ensign College studying Computer Science.
+      I am a psychologist, Japanese, and challenger. I am a certified psychologist in Japan, 
+      but I followed my desire to come to the States to learn new things such as computer science. 
+      And now, I am passionate about software engineering and I am always looking for ways to improve 
+      my skills. I am from Japan where I learned detail oriented skill and logical thinking in daily life,
+      and I am a challenger who put myself in totally new environment to learn and experience new things. 
+      I believe working in a multi-disciplined approach brings creative inspiration to my work. 
+      I am passionate about creating websites and web apps that incorporate interactive design 
+      and modern technologies. I specialize in front-end development but also love experimenting with 
+      new backend technologies, with the aim to improve productivity, quality, performance and speed.
     </p>
     <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-      My name is David Uche, I am a student at the University of Regina studying Computer Science.
-      I am a software engineer, father, and believer. I am passionate about software engineering and
-      I am always looking for ways to improve my skills. I am also a father to a beautiful daughter and
-      I am a believer in God. I am always looking for ways to improve my skills and I am always looking
-      for ways to improve my skills. I am always looking for ways to improve my skills and I am always
-      looking for ways to improve my skills. I am always looking for ways to improve my skills and
-      I am always looking for ways to improve my skills. I am always looking for ways to improve my
-      skills and I am always looking for ways to improve my skills. I am always looking for ways to
-      improve my skills and I am always looking for ways to improve my skills. I am always looking
-      for ways to improve my skills and I am always looking for ways to improve my skills.
+      My name is Saki Imano, I am a student at Ensign College studying Computer Science.
+      I am a psychologist, Japanese, and challenger. I am a certified psychologist in Japan, 
+      but I followed my desire to come to the States to learn new things such as computer science. 
+      And now, I am passionate about software engineering and I am always looking for ways to improve 
+      my skills. I am from Japan where I learned detail oriented skill and logical thinking in daily life,
+      and I am a challenger who put myself in totally new environment to learn and experience new things. 
+      I believe working in a multi-disciplined approach brings creative inspiration to my work. 
+      I am passionate about creating websites and web apps that incorporate interactive design 
+      and modern technologies. I specialize in front-end development but also love experimenting with 
+      new backend technologies, with the aim to improve productivity, quality, performance and speed.
     </p>
     <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-      My name is David Uche, I am a student at the University of Regina studying Computer Science.
-      I am a software engineer, father, and believer. I am passionate about software engineering and
-      I am always looking for ways to improve my skills. I am also a father to a beautiful daughter and
-      I am a believer in God. I am always looking for ways to improve my skills and I am always looking
-      for ways to improve my skills. I am always looking for ways to improve my skills and I am always
-      looking for ways to improve my skills. I am always looking for ways to improve my skills and
-      I am always looking for ways to improve my skills. I am always looking for ways to improve my
-      skills and I am always looking for ways to improve my skills. I am always looking for ways to
-      improve my skills and I am always looking for ways to improve my skills. I am always looking
-      for ways to improve my skills and I am always looking for ways to improve my skills.
+      My name is Saki Imano, I am a student at Ensign College studying Computer Science.
+      I am a psychologist, Japanese, and challenger. I am a certified psychologist in Japan, 
+      but I followed my desire to come to the States to learn new things such as computer science. 
+      And now, I am passionate about software engineering and I am always looking for ways to improve 
+      my skills. I am from Japan where I learned detail oriented skill and logical thinking in daily life,
+      and I am a challenger who put myself in totally new environment to learn and experience new things. 
+      I believe working in a multi-disciplined approach brings creative inspiration to my work. 
+      I am passionate about creating websites and web apps that incorporate interactive design 
+      and modern technologies. I specialize in front-end development but also love experimenting with 
+      new backend technologies, with the aim to improve productivity, quality, performance and speed.
     </p>
     <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-      My name is David Uche, I am a student at the University of Regina studying Computer Science.
-      I am a software engineer, father, and believer. I am passionate about software engineering and
-      I am always looking for ways to improve my skills. I am also a father to a beautiful daughter and
-      I am a believer in God. I am always looking for ways to improve my skills and I am always looking
-      for ways to improve my skills. I am always looking for ways to improve my skills and I am always
-      looking for ways to improve my skills. I am always looking for ways to improve my skills and
-      I am always looking for ways to improve my skills. I am always looking for ways to improve my
-      skills and I am always looking for ways to improve my skills. I am always looking for ways to
-      improve my skills and I am always looking for ways to improve my skills. I am always looking
-      for ways to improve my skills and I am always looking for ways to improve my skills.
+      My name is Saki Imano, I am a student at Ensign College studying Computer Science.
+      I am a psychologist, Japanese, and challenger. I am a certified psychologist in Japan, 
+      but I followed my desire to come to the States to learn new things such as computer science. 
+      And now, I am passionate about software engineering and I am always looking for ways to improve 
+      my skills. I am from Japan where I learned detail oriented skill and logical thinking in daily life,
+      and I am a challenger who put myself in totally new environment to learn and experience new things. 
+      I believe working in a multi-disciplined approach brings creative inspiration to my work. 
+      I am passionate about creating websites and web apps that incorporate interactive design 
+      and modern technologies. I specialize in front-end development but also love experimenting with 
+      new backend technologies, with the aim to improve productivity, quality, performance and speed.
     </p>
         </div>
         <aside className="col-span-2 md:col-span-1 mt-8 md:mt-0 flex justify-center flex-col self-start">
@@ -101,7 +101,7 @@ export default function About() {
                     <path d="M12 13.287l9.11-6.527C20.854 5.517 20.202 5 19.47 5H4.53c-.732 0-1.384.517-1.64 1.186L12 13.287zM2 6.877l8.225 5.841c.202.144.446.217.687.217s.485-.073.687-.217L22 6.877V19c0 .732-.594 1.328-1.328 1.328H3.328A1.328 1.328 0 012 19V6.877z" />
                     </svg>
                   </a>
-                     Jane@gmail.com
+                     Saki@gmail.com
                   </p>
                 </div>
               </p>

@@ -5,7 +5,7 @@ function ArticlesSection() {
     {
       date: 'December 26, 2023',
       title: 'Lorem ipsum dolor sit amet.',
-      content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque neque animi, velit aut voluptatibus non est labore unde ad maxime incidunt in ut saepe dicta temporibus perferendis dolores illo nisi!',
+      content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque neque animi, veli aut voluptatibus non est labore unde ad maxime incidunt in ut saepe dicta temporibus perferendis dolores illo nisi!',
       link: '#',
     },
     {

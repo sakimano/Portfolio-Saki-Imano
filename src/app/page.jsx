@@ -20,10 +20,10 @@ export default function Home() {
       <header className="">
         <img src="/images/prof.jpeg" alt="Profile" className="rounded-full w-24 h-24 mb-5" />
         <h1 className="text-4xl font-bold max-w-[50%]">
-          Software engineer, father, and believer.
+          Psychologist, Japanese, and challenger.
         </h1>
         <p className=" max-w-[60%] mt-6" style={{ color: 'var(--paragraph-color)' }}>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error qui alias odio unde nam, eos accusantium temporibus odit ea, et accusamus sunt maxime neque, ad pariatur dignissimos sit consectetur minima? Lorem ipsum dolor sit amet consectetur adipisicing elit. Non iusto maxime veritatis? Facilis laudantium, error recusandae, animi quasi nemo odit debitis dolor similique eveniet quae sunt cupiditate vitae minus placeat!
+        Hi I am a web developer & designer from Sendai, Japan. I believe working in a multi-disciplined approach brings creative inspiration to my work. I am passionate about creating websites and web apps that incorporate interactive design and modern technologies. I specialize in front-end development but also love experimenting with new backend technologies, with the aim to improve productivity, quality, performance and speed.
         </p>
         <div className="flex justify-left space-x-4 mt-7">
           <a href="https://twitter.com/yourprofile" className="text-blue-500" target="_blank" rel="noopener noreferrer">
