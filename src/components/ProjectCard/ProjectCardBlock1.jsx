@@ -4,10 +4,10 @@ function ProjectCardBlock1() {
   return (
     <>
       <ProjectCard
-        name={'Company'}
-        logo={'images/company.png'}
+        name={'Portfolio'}
+        logo={'images/portfolio.jpg'}
         content={
-          'Creating technology to empower xivilians to explore space on their own terms.'
+          'This work shows my skill in web programming.'
         }
         link={'https://www.ensign.edu/'}
       />

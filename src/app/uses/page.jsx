@@ -17,7 +17,7 @@ export default function About() {
         <div className="col-span-2 md:col-span-2">
             <h1 className="text-6xl font-bold mt-6">Software I use, gadgets I love and other things I recommend.</h1>
           <p className="mt-6 " style={{ color: '#555555' }}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam aspernatur nemo, dolorum nihil a perspiciatis. Perspiciatis, dolorem ut. Facilis itaque similique quasi alias ea omnis quibusdam? Dolore eius in assumenda! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi atque eum nam quos enim quae suscipit unde qui, voluptate laborum cum delectus odio deserunt minus voluptatibus in incidunt sapiente. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam porro placeat exercitationem aspernatur explicabo, dolorem, hic tenetur recusandae laboriosam similique earum consequuntur? Alias reprehenderit et obcaecati repudiandae amet fuga vero.
+             
           </p>
         </div>
 </div>

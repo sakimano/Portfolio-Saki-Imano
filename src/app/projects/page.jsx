@@ -16,17 +16,13 @@ export default function About() {
         <div className="col-span-2 md:col-span-1">
             <h1 className="text-6xl font-bold mt-6">Things I've made trying to put my dent in the universe.</h1>
           <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam aspernatur nemo, dolorum nihil a perspiciatis. Perspiciatis, dolorem ut. Facilis itaque similique quasi alias ea omnis quibusdam? Dolore eius in assumenda! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi atque eum nam quos enim quae suscipit unde qui, voluptate laborum cum delectus odio deserunt minus voluptatibus in incidunt sapiente. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam porro placeat exercitationem aspernatur explicabo, dolorem, hic tenetur recusandae laboriosam similique earum consequuntur? Alias reprehenderit et obcaecati repudiandae amet fuga vero.
+            Since I just started learning about programming, I don't have much work and project I have done. I hope I'll be able to put more works that demonstrate my skills as I go through this journey on programming.  
           </p>
         </div>
 </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-8">
        <ProjectCardBlock1 />
-       <ProjectCardBlock1 />
-       <ProjectCardBlock1 />
-       <ProjectCardBlock1 />
-       <ProjectCardBlock1 />
-       <ProjectCardBlock1 />
+       
     </div>
         <FooterSection />
       </main>
